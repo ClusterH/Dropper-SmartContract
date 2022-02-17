@@ -1,0 +1,8 @@
+{
+  "name": "Dropper",
+  "description": "Collect the most epic moments of live content from your favorite creators on Dropper. We work with creators to build their signature collections, which you can collect across different rarities from common to super rare unique 1/1s. Dropper is for everyone, from any live content you can imagine. Build your collection and compete to become the ultimate fan.",
+  "image": "https://dropper.s3.ca-central-1.amazonaws.com/discord-logo.png",
+  "external_link": "https://www.joindropper.com/",
+  "seller_fee_basis_points": 1500,
+  "fee_recipient": "0x8445E32b4e67e89191000B845B71700898700723"
+}

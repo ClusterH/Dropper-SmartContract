@@ -1,0 +1,29 @@
+{
+  "name": "Clix First Twitch Clip",
+  "description": "A piece of Clix history",
+  "external_url": "https://www.joindropper.com",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Clix #1"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Fortnite"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Battle Royale"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Twitch.tv"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@ClixHimself"
+    }
+  ],
+  "image": "https:/dropper.mypinata.cloud/ipfs/QmRricfYLZPBzKK2rSk6ktMHS21HJD28xNtwkfLWpkbnTo/Epic/Clix%20First%20Twitch%20Clip.png",
+  "animation_url": "https:/dropper.mypinata.cloud/ipfs/QmRricfYLZPBzKK2rSk6ktMHS21HJD28xNtwkfLWpkbnTo/Epic/Clix%20First%20Twitch%20Clip.mp4"
+}

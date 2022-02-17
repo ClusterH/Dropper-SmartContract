@@ -1,0 +1,34 @@
+{
+  "name": "dropper",
+  "version": "1.0.0",
+  "description": "An NFT marketplace and social media platform for the most memorable moments of internet history.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/RealmPlatform/dropper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/RealmPlatform/dropper/issues"
+  },
+  "homepage": "https://gitlab.com/RealmPlatform/dropper#readme",
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@openzeppelin/contracts": "^4.3.1",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "arb-ethers-web3-bridge": "^0.7.3",
+    "dotenv": "^10.0.0",
+    "ipfs-http-client": "^52.0.3",
+    "truffle-contract-size": "^2.0.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}

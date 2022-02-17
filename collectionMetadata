@@ -1,0 +1,8 @@
+{
+  "name": "Clix NFT collection #1",
+  "description": "The first official NFT collection by Cody 'Clix' Conrod, professional Esports athlete. He hails from the USA and boasts over $260,000 USD in prize winnings. These hand selected moments represent some of his favorite and most iconic memories of his Fortnite career. Compete to become his number one fan by assembling your collection.",
+  "image": "https://dropper.s3.ca-central-1.amazonaws.com/clix-headshot.png",
+  "external_link": "https://www.joindropper.com/",
+  "seller_fee_basis_points": 1500,
+  "fee_recipient": ""
+}

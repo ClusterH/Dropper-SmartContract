@@ -1,0 +1,8 @@
+{
+    "name": "Dropper",
+    "description": "Dropper is the premier live content NFT platform featuring the largest content creators in the world. Buy a pack to open moments and fill out your collection. Compete for the top collections score and become the number 1 fan.",
+    "image": "https://www.joindropper.com/assets/images/dropper-small-shaddow.png",
+    "external_link": "https://joindropper.com",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x4c2b6f100B00ffd285B5d1F01137B6f816e6aEc9"
+}
